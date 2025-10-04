@@ -10,6 +10,11 @@ Professional automated trading signal copier from Telegram to MetaTrader 4.
 
 /Users/mac/Library/Application Support/MetaTrader 5/Bottles/metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Experts
 
+
+### Create Executable File for PC:
+```bash
+pyinstaller --onefile --name "TelegramMT5Bridge" telegramMT4Bridge.py
+```
 ---
 
 ## Configuration Status
@@ -25,5 +30,5 @@ Professional automated trading signal copier from Telegram to MetaTrader 4.
 ### 1. Install Dependencies
 ```bash
 pip install telethon cryptg
-
+```
 

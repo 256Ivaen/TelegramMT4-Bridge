@@ -22,7 +22,7 @@ CONFIG = {
     'api_id': '20334456',  # Get from https://my.telegram.org/apps
     'api_hash': '37a75a9a9de365f35baec07b3e7edd43',  # Get from https://my.telegram.org/apps
     'phone': '+256709165008',  # Your phone number with country code (e.g., +256712345678)
-    'channel_username': '@preciouspips01',  # Channel to monitor (e.g., @ForexSignals)
+    'channel_username': '@pythontelegramscript',  # Channel to monitor (e.g., @ForexSignals)
     'signals_file': '/Users/mac/signals.json',  # Signals file location (Mac path)
     'session_name': 'telegram_mt4_session',  # Session file name
     'log_file': 'telegram_bridge.log'  # Log file name
